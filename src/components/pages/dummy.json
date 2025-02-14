@@ -1,0 +1,124 @@
+{
+  "about": [
+    {
+      "id": 1,
+      "heading1": "About",
+      "heading2": "me",
+      "imgUrl": "images/profile/profile-image-1.jpg",
+      "heading3":"experience",
+      "heading4":"Education",
+      "heading5":"Award",
+      "heading6":"Skills",
+      "experience":[
+        {
+            "id":111,
+            "duration":"Dec 2019 - Current",
+            "cname":"MGS PVT. LTD.",
+            "designation":"Creative Director",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        },
+        {
+            "id":113,
+            "duration":"Oct 2018 - Nov 2019",
+            "cname":"MGS PVT. LTD.",
+            "designation":"Senior Designer",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        },
+        {
+            "id":114,
+            "duration":"Sep 2015 - Sep 2018",
+            "cname":"MGS PVT. LTD.",
+            "designation":"Designer",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        }
+      ],
+      "education":[
+        {
+            "id":115,
+            "duration":"June 2015",
+            "cname":"GKIC Rampur Maniharan UP",
+            "course":"B.Tech",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        },
+        {
+            "id":116,
+            "duration":"Oct 2011",
+            "cname":"GKIC Rampur Maniharan UP",
+            "course":"Intermediate",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        },
+        {
+            "id":117,
+            "duration":"May 2009",
+            "cname":"GKIC Rampur Maniharan UP",
+            "course":"High School",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        }
+      ],
+      "awards":[
+        {
+            "id":118,
+            "duration":"Dec 2019 - Current",
+            "aname":"People Awards",
+            "afrom":"Institute Name",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        },
+        {
+            "id":119,
+            "duration":"Oct 2018 - Nov 2019",
+            "aname":"People Awards",
+            "afrom":"Institute Name",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        },
+        {
+            "id":120,
+            "duration":"Sep 2015 - Sep 2018",
+            "aname":"People Awards",
+            "afrom":"Institute Name",
+            "cabout":"The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks."
+        }
+      ],
+      "skills":[
+        {
+            "id":121,
+            "name":"HTML5",
+            "percentage":99.0
+        },
+        {
+            "id":122,
+            "name":"React",
+            "percentage":86.0
+        },
+        {
+            "id":123,
+            "name":"JS",
+            "percentage":90.0
+        },
+        {
+            "id":124,
+            "name":"TypeScript",
+            "percentage":80
+        }
+      ],
+      "details": [
+        {
+          "id": 11,
+          "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine."
+        },
+        {
+          "id": 12,
+          "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart."
+        },
+        {
+          "id": 13,
+          "detail": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine."
+        },
+        {
+          "id": 14,
+          "detail": "I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+        }
+      ]
+    }
+  ],
+  "contact": [{}]
+}
